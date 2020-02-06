@@ -1,0 +1,38 @@
+body{
+    margin:0;
+}
+
+.navBar{
+    width: 100vw;
+}
+
+.spacing{
+    padding-bottom:50px;
+}
+
+.footer{
+    min-height: 300px;
+    width: 100vw;
+}
+
+.larger{
+    font-size: 30px;
+}
+
+.medium{
+    font-size: 25px;
+}
+
+.padding-top{
+    padding-top: 75px;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+.largerSmall{
+    font-size: 10px;
+}
+
+.mediumSmall{
+    font-size: 10px;
+}
